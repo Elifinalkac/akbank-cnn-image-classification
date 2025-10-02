@@ -35,5 +35,5 @@ Optimizasyon ve model eğitimi sonucunda, modelimiz test verisi üzerinde **%82*
 ###  Kaggle Notebook Linki
 Projenin tüm kodlarına, detaylı teknik anlatımlarına, adımlarına ve sonuçlarına aşağıdaki Kaggle Notebook linkinden erişebilirsiniz.
 
-**https://www.kaggle.com/code/elifnalkac/akbank-bootcamp-cnn-projesi**
+[**Akbank Bootcamp CNN Projesi (Kaggle Notebook)**](https://www.kaggle.com/code/elifnalkac/akbank-bootcamp-cnn-projesi)
 ```
